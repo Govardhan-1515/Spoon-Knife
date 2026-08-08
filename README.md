@@ -16,3 +16,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 This change demonstrates the GitHub fork and pull request workflow.
 
+This update was made based on the pull request review feedback.
+
